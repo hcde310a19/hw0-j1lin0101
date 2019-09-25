@@ -1,3 +1,11 @@
 # Description of your program (part 7)
+1) Prompt user to choose a document on their computer
+2) Set the word counter to zero
+3) Starting from the first character of the document, start analyzing each character of the doc
+4) As long as the current character is not a space move onto the next character
+5) If the current character happens to be a space, then add one to our word counter, then move onto the next word
+6) Continue steps 3-5 until the end of the document
+
 
 # Reflection on writing your program (part 8)
+Overall, the assignment wasn't too bad. I have some experience working with the Terminal and Git so this was a very nice review. I am just really excited to be learning Python and building projects within the context of Human-Centered Design.

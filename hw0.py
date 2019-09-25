@@ -53,13 +53,13 @@ hello()
 # in the values for length, width, height, and your name.
 # Then save and run the program again.
 
-# length = 0
-# width = 0
-# height = 0
-#
-# me = "<your name here>"
-# print("Volume =", width * length * height)
-# print("My name is", me)
+length = 100
+width = 100
+height = 100
+
+me = "Jeremy"
+print("Volume =", width * length * height)
+print("My name is", me)
 
 # Step 5: You can also run Python programs in PyCharm as well.
 # In PyCharm, click File and then New Project. Make sure the
